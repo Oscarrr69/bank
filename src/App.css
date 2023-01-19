@@ -1,0 +1,61 @@
+
+
+table {
+  width: 80%;
+  border-collapse: collapse;
+  background-color: #b1d6db;
+}
+
+th, td {
+  border: 1px solid #236f79;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #1eb2c5;
+}
+  
+  
+  form label {
+  margin-right: 10px;
+  width: 50px;
+  }
+  
+  form input {
+  margin: 10px;
+  padding: 8px;
+  width: 110px;
+  border-radius: 4px;
+  border: 1px solid #1eb2c5;
+  }
+  
+  form button {
+  margin-top: 20px;
+  margin-right: -100px;
+  padding: 8px;
+  width: 150px;
+  background-color: #1eb2c5;
+  border-radius: 10px;
+  color: #000;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  }
+  
+  form button:hover {
+  background-color: #7ea3a8;
+  }
+  
+  input[type="text"]{
+  margin: 10px;
+  padding: 8px;
+  width: 150px;
+  border-radius: 4px;
+  border: 1px solid #1eb2c5;
+  }
+
+.filter-container{
+  margin-top: 20px;
+  margin-left: 50px;
+}
